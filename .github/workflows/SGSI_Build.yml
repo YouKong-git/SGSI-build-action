@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
+  ROM_URL: 'https://aabn7ay2mrnq5p6ry2ez2q6tmwccm888.node.ppio.cloud:35675/fsa167af8c.a.bdydns.com/0/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210714010110/8402bdc8/update.zip?max_age=7776000&r=BkF4S%2FeYIjBPTQ%2Fa1PhqyFq5IXeL6PLyBtIW2ss3b4cEIF%2FUVlV7EvJziz%2BKctfAV1ytoUyN5WEl2awLo6bPOBcBRROsBFkeQs8hpkgJX1HBQ8PlCifs1Nfa%2Fl0dh5Go4jREI6lBQMBlf2%2FUICLMgQ%3D%3D&ppiouid=61262276271b060001bac5b1741ae781'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'a-only'
